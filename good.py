@@ -1,0 +1,1 @@
+print("salaman is nice guy!")
